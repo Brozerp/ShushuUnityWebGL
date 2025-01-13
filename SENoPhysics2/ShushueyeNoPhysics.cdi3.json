@@ -1,0 +1,92 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "TriggerNeutral",
+			"GroupId": "ParamGroup",
+			"Name": "emot_neutral"
+		},
+		{
+			"Id": "TriggerBlase",
+			"GroupId": "ParamGroup",
+			"Name": "emot_blase"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "TriggerContrarie"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "TriggerColere"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "TriggerContent"
+		},
+		{
+			"Id": "TriggerBlush",
+			"GroupId": "ParamGroup",
+			"Name": "Blush"
+		},
+		{
+			"Id": "Wink",
+			"GroupId": "ParamGroup3",
+			"Name": "WinkPosition"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "EyeSizeParam",
+			"GroupId": "ParamGroup2",
+			"Name": "eyeballSize"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Emot"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Wink"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "EyeBallControl"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "ShushueyePSD_F.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part",
+			"Name": "Base"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Dossier 1"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}

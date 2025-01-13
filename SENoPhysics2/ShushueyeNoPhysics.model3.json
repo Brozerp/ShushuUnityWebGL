@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ShushueyeNoPhysics.moc3",
+		"Textures": [
+			"ShushueyeNoPhysics.2048/texture_00.png"
+		],
+		"DisplayInfo": "ShushueyeNoPhysics.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
